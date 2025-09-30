@@ -5,7 +5,12 @@ body {
 }
 
 .header {
+    background-color: rgb(15, 123, 11);
+    color: whitesmoke;
+}
 
+.header h2 {
+    font-size: 30px;
 }
 
 .hero {
